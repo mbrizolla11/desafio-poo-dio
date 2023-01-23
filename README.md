@@ -1,4 +1,5 @@
 # Desafio: Aprenda na Prática Programação Orientada a Objetos
+O desafio foi realizado no Bootcamp Orange Tech + back-End promovido pela plataforma Digital Innovation One.
 
 ## :pushpin: Objetivo 
 
